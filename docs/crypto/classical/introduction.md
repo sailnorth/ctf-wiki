@@ -5,5 +5,5 @@
 -   拓展阅读
 
     -   [CTF 中那些脑洞大开的编码和加密](http://www.tuicool.com/articles/2E3INnm)
-    -   [【密码教程】各种加密方式详解，百度贴吧](http://tieba.baidu.com/p/2027781907)
+    -   [古典密码](https://blog.yinaoxiong.cn/2018/04/06/%E5%AF%86%E7%A0%81%E5%AD%A6%E7%AC%94%E8%AE%B0-%E4%B8%80-%E5%8F%A4%E5%85%B8%E5%AF%86%E7%A0%81.html)
 
